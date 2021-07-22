@@ -1,5 +1,8 @@
 ### Hi there  I'm Patrick👋
 
+
+ I live in São Paulo, Brazil :brazil:
+
 💻 I’m currently looking for improvements to change careers.
 
 
