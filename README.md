@@ -1,7 +1,7 @@
 ### Hi there  I'm Patrick👋
 
 
- I live in São Paulo, Brazil :brazil:
+ I live in São Paulo, Brazil :flag_br:
 
 💻 I’m currently looking for improvements to change careers.
 
