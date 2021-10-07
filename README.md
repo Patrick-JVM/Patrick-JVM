@@ -3,7 +3,7 @@
 System.out.println ("  
 🌍I live in São Paulo, 🇧🇷.
  
-🖥 I study computer science and am in the 4th semester.
+🖥 I study computer science and am in the 5th semester.
 
 💻 I’m currently looking for improvements to change careers.
 
